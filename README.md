@@ -6,8 +6,8 @@ The program was created to do end to end integrtaion with Visual Studio Code and
 
 # Development Environment
 
-Python
-Visual Studio Code
+- Python
+- Visual Studio Code
 
 # Useful Websites
 
